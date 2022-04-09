@@ -1,0 +1,91 @@
+{
+  "icons": [
+    {
+      "src": "/tinyRPGprod/icon_512x512.5448d31e2e960c300c0a4e6c24fc30b3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/tinyRPGprod/icon_384x384.a6b4ef0ef784078572e06948753db5c3.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/tinyRPGprod/icon_256x256.321e8d83a9ebb868bd1c75a3bb4ab43f.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/tinyRPGprod/icon_192x192.a967844db902b8e9dbf64f91ae810043.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/tinyRPGprod/icon_168x168.f2fbaf03503c33338178ba7f5b4f29d7.png",
+      "sizes": "168x168",
+      "type": "image/png"
+    },
+    {
+      "src": "/tinyRPGprod/icon_144x144.5de93948bdc5830f51cf0728096aa522.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/tinyRPGprod/icon_128x128.369bc18fa9fcde992a48b77b1cb2b01b.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/tinyRPGprod/icon_96x96.8f414ca1e498469e9dcb5e2cde1080ad.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/tinyRPGprod/icon_72x72.d5e7f9a565858feb4df223634236b9a9.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/tinyRPGprod/icon_48x48.7ecac948bb0f3295e8961bd87df3768d.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/tinyRPGprod/icons/ios/icon_1125x1125.46edb946a12a0b65c94eb689fbf2c5ff.png",
+      "sizes": "1125x1125",
+      "type": "image/png"
+    },
+    {
+      "src": "/tinyRPGprod/icons/ios/icon_1024x1024.e09930f978880c8272147e92900187eb.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "/tinyRPGprod/icons/ios/icon_180x180.92282ee28ac0f5a22aa2739d0e3d7728.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "/tinyRPGprod/icons/ios/icon_167x167.5cf31dd02e31a0fb766008edef97d7a8.png",
+      "sizes": "167x167",
+      "type": "image/png"
+    },
+    {
+      "src": "/tinyRPGprod/icons/ios/icon_152x152.163ca3a362bef7a86941acee86277f59.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "/tinyRPGprod/icons/ios/icon_120x120.6042ac76e385d59cbee8cf69d8505f90.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    }
+  ],
+  "name": "tinyRPG",
+  "short_name": "tinyRPG",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "tiny html5 Rpg on phaser",
+  "background_color": "#90674f"
+}
