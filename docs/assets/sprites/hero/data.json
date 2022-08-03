@@ -512,7 +512,7 @@
     "duration": 100
    },
    "64": {
-    "frame": { "x": 58, "y": 115, "w": 18, "h": 18 },
+    "frame": { "x": 77, "y": 115, "w": 18, "h": 18 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 16 },
@@ -520,7 +520,7 @@
     "duration": 100
    },
    "65": {
-    "frame": { "x": 77, "y": 115, "w": 18, "h": 18 },
+    "frame": { "x": 58, "y": 115, "w": 18, "h": 18 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 16 },
@@ -528,7 +528,7 @@
     "duration": 100
    },
    "66": {
-    "frame": { "x": 77, "y": 115, "w": 18, "h": 18 },
+    "frame": { "x": 58, "y": 115, "w": 18, "h": 18 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 16 },
@@ -536,7 +536,31 @@
     "duration": 100
    },
    "67": {
-    "frame": { "x": 77, "y": 115, "w": 18, "h": 18 },
+    "frame": { "x": 58, "y": 115, "w": 18, "h": 18 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 16 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   "68": {
+    "frame": { "x": 96, "y": 115, "w": 18, "h": 18 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 16 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   "69": {
+    "frame": { "x": 96, "y": 115, "w": 18, "h": 18 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 16 },
+    "sourceSize": { "w": 16, "h": 16 },
+    "duration": 100
+   },
+   "70": {
+    "frame": { "x": 96, "y": 115, "w": 18, "h": 18 },
     "rotated": false,
     "trimmed": false,
     "spriteSourceSize": { "x": 0, "y": 0, "w": 16, "h": 16 },
@@ -546,9 +570,9 @@
  },
  "meta": {
   "app": "https://www.aseprite.org/",
-  "version": "1.2.32-arm64",
-  "image": "hero3.png",
-  "format": "RGBA8888",
+  "version": "1.2.32-x64",
+  "image": "image.png",
+  "format": "I8",
   "size": { "w": 134, "h": 134 },
   "scale": "1",
   "frameTags": [
@@ -568,11 +592,11 @@
    { "name": "jumpRight", "from": 51, "to": 54, "direction": "forward" },
    { "name": "jumpUpRight", "from": 55, "to": 58, "direction": "forward" },
    { "name": "jumpDownRight", "from": 59, "to": 62, "direction": "forward" },
-   { "name": "climbUp", "from": 63, "to": 63, "direction": "forward" },
-   { "name": "climbDown", "from": 64, "to": 64, "direction": "forward" },
-   { "name": "climbRight", "from": 65, "to": 65, "direction": "forward" },
-   { "name": "climbUpRight", "from": 66, "to": 66, "direction": "forward" },
-   { "name": "climbDownRight", "from": 67, "to": 67, "direction": "forward" }
+   { "name": "climbUp", "from": 63, "to": 66, "direction": "forward" },
+   { "name": "climbDown", "from": 67, "to": 67, "direction": "forward" },
+   { "name": "climbRight", "from": 68, "to": 68, "direction": "forward" },
+   { "name": "climbUpRight", "from": 69, "to": 69, "direction": "forward" },
+   { "name": "climbDownRight", "from": 70, "to": 70, "direction": "forward" }
   ]
  }
 }

@@ -1,0 +1,27 @@
+{ "frames": {
+   "base_0": {
+    "frame": { "x": 0, "y": 0, "w": 96, "h": 160 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 160 },
+    "sourceSize": { "w": 96, "h": 160 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.32-x64",
+  "image": "image.png",
+  "format": "RGBA8888",
+  "size": { "w": 96, "h": 160 },
+  "scale": "1",
+  "slices": [
+   { "name": "deepWater", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 0, "y": 0, "w": 16, "h": 48 } }] },
+   { "name": "water", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 16, "y": 0, "w": 16, "h": 64 } }] },
+   { "name": "grass", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 32, "y": 0, "w": 16, "h": 64 } }] },
+   { "name": "rock2", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 48, "y": 0, "w": 16, "h": 64 } }] },
+   { "name": "rock1", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 64, "y": 0, "w": 16, "h": 64 } }] },
+   { "name": "shift", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 80, "y": 0, "w": 16, "h": 64 } }] }
+  ]
+ }
+}

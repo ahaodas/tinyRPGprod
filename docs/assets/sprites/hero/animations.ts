@@ -1,0 +1,23 @@
+export enum heroAnimations {
+runDown,
+runUp,
+runRight,
+runUpRight,
+runDownRight,
+swimDown,
+swimUp,
+swimRight,
+Loop,
+swimUpRight,
+swimDownRight,
+jumpDown,
+jumpUp,
+jumpRight,
+jumpUpRight,
+jumpDownRight,
+climbUp,
+climbDown,
+climbRight,
+climbUpRight,
+climbDownRight
+}
