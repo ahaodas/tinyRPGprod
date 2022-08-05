@@ -1,10 +1,10 @@
 { "frames": {
    "base_0": {
-    "frame": { "x": 0, "y": 0, "w": 96, "h": 160 },
+    "frame": { "x": 0, "y": 0, "w": 192, "h": 160 },
     "rotated": false,
     "trimmed": false,
-    "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 160 },
-    "sourceSize": { "w": 96, "h": 160 },
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 192, "h": 160 },
+    "sourceSize": { "w": 192, "h": 160 },
     "duration": 100
    }
  },
@@ -13,7 +13,7 @@
   "version": "1.2.32-x64",
   "image": "image.png",
   "format": "RGBA8888",
-  "size": { "w": 96, "h": 160 },
+  "size": { "w": 192, "h": 160 },
   "scale": "1",
   "slices": [
    { "name": "deepWater", "color": "#0000ffff", "keys": [{ "frame": 0, "bounds": {"x": 0, "y": 0, "w": 16, "h": 48 } }] },
